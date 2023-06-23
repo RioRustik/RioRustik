@@ -1,11 +1,6 @@
 ### Hi, my name is Rustam Kusiapkulov
 ### I'm Frontend developer
 
-### Languages and Technologies
-<img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JS&logoColor=white"/><img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=JS&logoColor=white"/>
-
-
-
 :e-mail: Mail me: [**riorustik@outlook.com**](riorustik@outlook.com)
 
 :globe_with_meridians: [Telegram](https://t.me/riorustik) 
