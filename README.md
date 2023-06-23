@@ -3,7 +3,7 @@
 
 :e-mail: Mail me: [**riorustik@outlook.com**](riorustik@outlook.com)
 
-:globe_with_meridians: [Telegram](https://t.me/riorustik) 
+:globe_with_meridians: Telegram: [riorustik](https://t.me/riorustik) 
 
 <!--
 **riorustik/riorustik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
