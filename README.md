@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, my name is Eselev Kirill
+### I'm Frontend developer
+
+### Languages and Technologies
+
+🖂 Mail me: [riorustik@outlook.com](riorustik@outlook.com)
+🌐 [Telegram](https://t.me/riorustik) 
 
 <!--
 **riorustik/riorustik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
