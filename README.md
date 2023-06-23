@@ -1,9 +1,10 @@
-### Hi, my name is Eselev Kirill
+### Hi, my name is Rustam Kusiapkulov
 ### I'm Frontend developer
 
 ### Languages and Technologies
 
 🖂 Mail me: [riorustik@outlook.com](riorustik@outlook.com)
+
 🌐 [Telegram](https://t.me/riorustik) 
 
 <!--
