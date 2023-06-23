@@ -1,4 +1,4 @@
-### Hi, my name is Rustam Kusiapkulov
+### :wave: Hi, my name is Rustam Kusiapkulov
 ### I'm Frontend developer
 
 :e-mail: Mail me: [**riorustik@outlook.com**](riorustik@outlook.com)
