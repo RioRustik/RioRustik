@@ -3,9 +3,9 @@
 
 ### Languages and Technologies
 
-🖂 Mail me: [riorustik@outlook.com](riorustik@outlook.com)
+:e-mail: Mail me: [riorustik@outlook.com](riorustik@outlook.com)
 
-🌐 [Telegram](https://t.me/riorustik) 
+[🌐](https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png) [Telegram](https://t.me/riorustik) 
 
 <!--
 **riorustik/riorustik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
